@@ -1,0 +1,2 @@
+John Smith, CIS 1, 90, MATH 1, 95, ENGL 1, 85
+Jane Doe, MATH 1, 80, ACCT 1, 95
